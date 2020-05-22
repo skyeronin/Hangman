@@ -64,9 +64,24 @@ _______
 '''
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-# gallows + noose, head, body, arms
+# gallows + noose, head, body, 1 arm
 
 gallows_5 = r'''
+_______
+|     |
+|   (ಥ_ಥ)
+|    <||
+|
+|_____
+|     |
+-------
+
+'''
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# gallows + noose, head, body, 2 arms
+
+gallows_6 = r'''
 _______
 |     |
 |   (ಥ_ಥ)
@@ -79,9 +94,24 @@ _______
 '''
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-# gallows + noose, head, body, arms, legs
+# gallows + noose, head, body, arms, 1 leg
 
-gallows_6 = r'''
+gallows_7 = r'''
+_______
+|     |
+|   (ಥ_ಥ)
+|    <||>
+|     /
+|_____
+|     |
+-------
+
+'''
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# gallows + noose, head, body, arms, 2 legs
+
+gallows_8 = r'''
 _______
 |     |
 |   (ಥ_ಥ)
@@ -94,5 +124,4 @@ _______
 '''
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-
-gallows_ver = [gallows_1, gallows_2, gallows_3, gallows_4, gallows_5, gallows_6]
+gallows_ver = [gallows_1, gallows_2, gallows_3, gallows_4, gallows_5, gallows_6, gallows_7, gallows_8]

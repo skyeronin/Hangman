@@ -3,7 +3,7 @@ __author__ = 'Caroline Sun'
 # draw gallows for Hangman project
 # 2020-04-26
 
-import src.gallows_classic, src.gallows_adventurous, src.gallows_modern
+from src import gallows_classic, gallows_adventurous, gallows_modern
 
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
